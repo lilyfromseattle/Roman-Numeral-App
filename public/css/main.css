@@ -1,0 +1,47 @@
+body {
+	font-family: 'Cutive', arial;
+	background-image: url('http://www.faronics.com/assets/RomanNumerals.jpg')
+	
+}
+
+h1 {
+	text-shadow: 2px 2px 2px olive;
+	margin-left: 5%;
+	text-transform: uppercase;
+	padding-top: 3%;
+
+}
+
+
+form { 
+	margin-left:5%;
+}
+
+#form {
+	border-radius: 15px;
+	background: -webkit-linear-gradient(white, gainsboro);	
+	box-shadow: 2px 2px 2px black;
+	font-family: 'Cutive', arial;
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+
+.btn-submit {
+	width: 150px;
+	margin: 2% 0;
+	border: 0;
+	padding: 10px 25px;
+	color: black;
+	font-size: .75em;
+	background-color: black;
+	border-radius: 25px;
+	color: olive;
+	font-family: 'Cutive', arial;
+}
+
+p {
+	font-family: 'Cutive', arial;
+
+}
